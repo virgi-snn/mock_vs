@@ -41,4 +41,4 @@ def label(file='data.h5'):
     return labels
 
 if __name__ == "__main__":
-    labels = label()
+    labels = label(file)
